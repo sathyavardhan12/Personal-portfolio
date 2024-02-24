@@ -862,9 +862,11 @@ span {
     html {
         font-size: 50%;
     }
-
+    .header{
+        width:100vw;
+    }
     #darkMode-icon {
-        right: 6rem;
+        right: 7rem;
     }
 
     .home .profession-box .profession:nth-child(1) {
